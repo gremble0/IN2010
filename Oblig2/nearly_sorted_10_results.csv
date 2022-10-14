@@ -1,0 +1,4 @@
+n, insert_cmp, insert_swaps, insert time,quick_cmp, quick_swaps, quick_time,gnome_cmp, gnome_swaps, gnome_time,heap_cmp, heap_swaps, heap_time 
+0, 0, 0, 0.00, 0, 0.00, 0, 0.00, 0, 0.0
+1, 0, 0, 0.00, 0, 0.00, 0, 0.00, 1, 0.0
+2, 0, 0, 0.03, 0, 0.0
